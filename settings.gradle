@@ -1,0 +1,3 @@
+include ':Stack'
+include ':app'
+rootProject.name = "RecyclerViewPagingLibrary"
